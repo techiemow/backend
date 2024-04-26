@@ -13,7 +13,7 @@
 - Users
 - Mentors 
 - Roadmap
-- Roadmap
+- Attendance
 - Company Drives
 ----------------------------------------------------------------
 **For Each Tables Respective Values are inserted for them**
