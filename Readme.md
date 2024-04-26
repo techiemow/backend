@@ -38,7 +38,7 @@ Attendance
 --------------------------------
 ![](./assests/attendance.png)
 
-- Here in the attended column of the table you can see its values as **1** which represents that the user has attended the class for that specific topics and vice versa **0** for not attended the class. 
+- Here in the attended column of the table you can see its values as **1** which represents that the user has attended the class for that specific topics and vice versa for **0** which means not attended the class. 
 ----------------------------------------------------------------
 
 Company Drives
