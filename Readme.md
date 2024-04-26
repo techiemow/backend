@@ -6,7 +6,11 @@
 
 - Using MySQL to create a database and its associated tables with different values for each of its tables in the database
 
-- Created a new database model called Zen Class
+- Created a new database model called Zen Class.
+
+
+- Queries used to create the database can be seen in the **Zenclass.sql** file
+ 
 
 **Created the following Tables as its attributes**
 ----------------------------------------------------------------
